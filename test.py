@@ -1,4 +1,10 @@
-thisdict = {"brand": "Ford", "model": "Mustang", "year": 1964}
+# thisdict = {"brand": "Ford", "model": "Mustang", "year": 1964}
 
-for x, y in thisdict.items():
-    print(f"{x} :- {y}")
+# for x, y in thisdict.items():
+#     print(f"{x} :- {y}")
+
+
+name = "digbijaya"
+
+
+print(name);
