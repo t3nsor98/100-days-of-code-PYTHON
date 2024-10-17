@@ -4,7 +4,12 @@
 #     print(f"{x} :- {y}")
 
 
-name = "digbijaya"
+# name = "digbijaya"
 
 
-print(name);
+# print(name);
+
+coffees = ["espresso", "latte", "cappuccino", "mocha", "americano", "cortado"]
+
+for coffee in coffees:
+    print(coffee, end="---")
